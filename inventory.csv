@@ -1,0 +1,5 @@
+device_id,device_name,location,status
+PROJ-01,Laser Projector,Conference Room A,Active
+AUDIO-02,DSP Mixer,Boardroom B,Active
+DISP-03,85-inch LED Display,Huddle Room C,Maintenance
+PROJ-04,Short-Throw Projector,Training Room D,Active

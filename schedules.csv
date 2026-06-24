@@ -1,0 +1,5 @@
+shift_id,staff_name,role,assigned_location,shift_time
+SHIFT-101,Alice Smith,Technician,Conference Room A,08:00 - 16:00
+SHIFT-102,Bob Jones,Technician,Boardroom B,08:00 - 16:00
+SHIFT-103,Charlie Brown,Manager,All Zones,09:00 - 17:00
+SHIFT-104,Diana Prince,Technician,Training Room D,16:00 - 00:00
